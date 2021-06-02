@@ -1,0 +1,2 @@
+#Modal Practice
+This is the exercise we did to learn how to make a modal. It will pull chuck norris jokes from an API and spit out a quote on the modal that can be exited with esc or clicking on the overlay.
